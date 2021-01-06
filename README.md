@@ -8,7 +8,5 @@ api.openweathermap.org/data/2.5/weather?q={city}&units=metric&appid={API_key}
 
 ## **Stack utilizado**
 
-ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
-
 1.  Lenguaje: JavaScript 
 2.  Framework: Vue.js
